@@ -1,9 +1,6 @@
 # ScrapeMemberGroupTelegram
 An Auto Scrapping Member Group Telegram
 
-# Mention-All-Member-Telegram
-an Auto mention all member using telethon
-
 # How to install:
 
   1. Download and install Python 3.8 or 3.9, in first page installation, click Add to Path in software.
