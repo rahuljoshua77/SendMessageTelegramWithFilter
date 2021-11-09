@@ -17,6 +17,7 @@ An Auto Scrapping Member Group Telegram
   edit the script:
 
   api_id = 'masukin api id'
+  
   api_hash = 'masukin api hash'
  
   kamus = "kata1|kata2"
